@@ -1,0 +1,19 @@
+/*import of fonts*/
+@font-face {
+	font-family: Ubuntu-Bold;
+	src: url('./components/fonts/Ubuntu-Bold.ttf');
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: Ubuntu-Regular;
+	src: url('./components/fonts/Ubuntu-Regular.ttf');
+	font-weight: 400;
+}
+
+/*default style*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
